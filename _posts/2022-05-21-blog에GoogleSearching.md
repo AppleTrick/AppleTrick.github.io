@@ -1,11 +1,8 @@
 ---
 title: gitblog 구글 서칭하게 만들기
-author:
-  name: Changhee Park
-  link: https://github.com/Appletrick
+author: Changhee Park
 date: 2022-05-21 01:00:00 +0900
 categories: [blogging]
-description: 설명
 tags: [블로그, blog, goole search, google]
 ---
 

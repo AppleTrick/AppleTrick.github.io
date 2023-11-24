@@ -1,11 +1,8 @@
 ---
 title: npm? npx? yarn? 에 대한 내용
-author:
-  name: Changhee Park
-  link: https://github.com/Appletrick
+author: Changhee Park
 date: 2022-05-03 00:00:00 +0900
 categories: [개념]
-description: 설명
 tags: [node, npm, npx, yarn]
 ---
 

@@ -1,11 +1,8 @@
 ---
 title: 데이터 정보를 저장하는 LocalStorage
-author:
-  name: Changhee Park
-  link: https://github.com/Appletrick
+author: Changhee Park
 date: 2022-04-06 00:00:00 +0900
-categories: [js]
-description: 데이터 정보를 저장하는 LocalStorage
+categories: [Js]
 tags: [javascript]
 ---
 

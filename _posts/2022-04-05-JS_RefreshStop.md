@@ -1,11 +1,8 @@
 ---
 title: JS로 새로고침 막기
-author:
-  name: Changhee Park
-  link: https://github.com/Appletrick
+author: Changhee Park
 date: 2022-04-05 00:00:00 +0900
-categories: [js]
-description: JS로 새로고침 막기
+categories: [Js]
 tags: [javascript]
 ---
 

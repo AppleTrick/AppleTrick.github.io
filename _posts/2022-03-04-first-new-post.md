@@ -1,10 +1,8 @@
 ---
 title: 블로그 첫 포스트
-author:
-  name: Changhee Park
-  link: https://github.com/Appletrick
+author: Changhee Park
 date: 2022-03-04 18:40:00 +0900
-categories: [blogging]
+categories: [Blogging]
 tags: [writing]
 ---
 

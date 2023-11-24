@@ -1,11 +1,8 @@
 ---
 title: React-Router 사용하고 활용하기
-author:
-  name: Changhee Park
-  link: https://github.com/Appletrick
+author: Changhee Park
 date: 2022-03-16 00:00:00 +0900
-categories: [react]
-description: 블로그 포스팅 방법 분석
+categories: [React]
 tags: [react, routing]
 ---
 
@@ -226,12 +223,12 @@ import { useParams } from "react-router-dom";
 const data = {
   appletrick: {
     name: "Appletrick",
-    about: "멋진 개발자",
+    about: "멋진 개발자"
   },
   steve: {
     name: "스티브잡스",
-    about: "애플의 창시자",
-  },
+    about: "애플의 창시자"
+  }
 };
 
 const Profile = () => {
@@ -541,7 +538,7 @@ import { NavLink, Outlet } from "react-router-dom";
 const Article = () => {
   const activeStyle = {
     color: "green",
-    fontsize: 21,
+    fontsize: 21
   };
 
   return (
@@ -602,7 +599,7 @@ const Articles = () => {
 const ArticleItem = ({ id }) => {
   const activeStyle = {
     color: "green",
-    fontSize: 21,
+    fontSize: 21
   };
   return (
     <li>

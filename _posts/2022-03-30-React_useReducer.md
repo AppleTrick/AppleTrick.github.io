@@ -1,11 +1,8 @@
 ---
 title: useReducer란?
-author:
-  name: Changhee Park
-  link: https://github.com/Appletrick
+author: Changhee Park
 date: 2022-03-30 00:00:00 +0900
-categories: [react]
-description: 블로그 포스팅 방법 분석
+categories: [React]
 tags: [react, usereducer]
 ---
 
