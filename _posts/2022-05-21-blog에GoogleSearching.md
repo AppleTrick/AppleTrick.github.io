@@ -2,7 +2,7 @@
 title: gitblog 구글 서칭하게 만들기
 author: Changhee Park
 date: 2022-05-21 01:00:00 +0900
-categories: [blogging]
+categories: [Blogging]
 tags: [블로그, blog, goole search, google]
 ---
 

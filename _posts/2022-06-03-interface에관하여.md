@@ -1,11 +1,8 @@
 ---
 title: interface에관하여
-author:
-  name: Changhee Park
-  link: https://github.com/Appletrick
+author: Changhee Park
 date: 2022-06-03 00:00:00 +0900
-categories: [ts]
-description: 설명
+categories: [Ts]
 tags: [ts, typescript, 타입스크립트, interface, 개념]
 ---
 
@@ -30,7 +27,7 @@ type Player3 = {
 const LeeP: Player3 = {
   nickname: "LeeP",
   healthBar: 12,
-  team: "red", // 1️⃣ red , blue, yellow 3가지중 하나만 가능
+  team: "red" // 1️⃣ red , blue, yellow 3가지중 하나만 가능
 };
 
 type Coffee = string;
@@ -81,7 +78,7 @@ interface User {
 interface Player extends User {}
 
 const park: Player = {
-  name: "park;",
+  name: "park;"
 };
 ```
 
@@ -97,7 +94,7 @@ type User = {
 type Player = User & {};
 
 const park: Player = {
-  name: "park;",
+  name: "park;"
 };
 ```
 
@@ -123,7 +120,7 @@ interface User {
 const park: User = {
   name: "park",
   address: "seoul",
-  addressNum: 125,
+  addressNum: 125
 };
 ```
 

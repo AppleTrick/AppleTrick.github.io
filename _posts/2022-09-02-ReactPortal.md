@@ -1,11 +1,8 @@
 ---
 title: React에서 modal창 만들기 (ReactPortal)
-author:
-  name: Changhee Park
-  link: https://github.com/Appletrick
+author: Changhee Park
 date: 2022-09-02 00:00:00 +0900
-categories: [react]
-description: 설명
+categories: [React]
 tags: [활용, typescript, react, reactportal]
 ---
 
@@ -149,7 +146,7 @@ const CharacterAddModal = ({ onClose }: CharacterAddModalProps) => {
         Level: characterData.characterLevel,
         Job: characterData.characterJob,
         GaurdianRestGage: characterData.guardianRestGage,
-        ChaosDungeonRestGage: characterData.choseDungeonRestGage,
+        ChaosDungeonRestGage: characterData.choseDungeonRestGage
       })
     );
 
@@ -167,7 +164,7 @@ const CharacterAddModal = ({ onClose }: CharacterAddModalProps) => {
     characterJob: "",
     characterLevel: 0,
     guardianRestGage: 0,
-    choseDungeonRestGage: 0,
+    choseDungeonRestGage: 0
   });
 
   const {
@@ -175,7 +172,7 @@ const CharacterAddModal = ({ onClose }: CharacterAddModalProps) => {
     characterJob,
     characterLevel,
     guardianRestGage,
-    choseDungeonRestGage,
+    choseDungeonRestGage
   } = characterData;
 
   return (

@@ -1,11 +1,8 @@
 ---
 title: redux immutable 문제 해결하기 (createAction, createReducer)
-author:
-  name: Changhee Park
-  link: https://github.com/Appletrick
+author: Changhee Park
 date: 2022-08-01 00:00:00 +0900
-categories: [ts]
-description: 설명
+categories: [Ts]
 tags: [개념, redux, typescript, react]
 ---
 
@@ -19,82 +16,82 @@ const initialState: ScheduleData = {
     Weekly: {
       ChallengeAbyss: {
         IsDone: false,
-        Visible: true,
+        Visible: true
       },
       EffonaReward: {
         IsDone: false,
-        Visible: true,
+        Visible: true
       },
       CrackPieceReward: {
         IsDone: false,
-        Visible: true,
+        Visible: true
       },
       ChallengeGuardian: {
         IsDone: false,
-        Visible: true,
-      },
-    },
+        Visible: true
+      }
+    }
   },
   Characters: [
     {
       CharacterInform: {
         CharacterName: "하얀눈송이아래",
         Job: "건슬링어",
-        Level: 1591,
+        Level: 1591
       },
       Daily: {
         ChaosDungeon: {
           isDone: false,
           RestGage: 0,
-          Visible: true,
+          Visible: true
         },
         Gaurdian: {
           isDone: false,
           RestGage: 0,
-          Visible: true,
+          Visible: true
         },
         DailyEffona: {
           isDone: false,
-          Visible: true,
+          Visible: true
         },
         GuildCheck: {
           isDone: false,
-          Visible: true,
-        },
+          Visible: true
+        }
       },
       Weekly: {
         Argos: {
           isDone: false,
-          Visible: true,
+          Visible: true
         },
         Valtan: {
           IsDone: false,
           GateNumber: 0,
-          Visible: true,
+          Visible: true
         },
         Viakiss: {
           IsDone: false,
           GateNumber: 0,
-          Visible: true,
+          Visible: true
         },
         Kukusaiton: {
           IsDone: false,
           GateNumber: 0,
-          Visible: true,
+          Visible: true
         },
         Abrelshood: {
           IsDone: false,
           GateNumber: 0,
-          Visible: true,
+          Visible: true
         },
         Kayangal: {
           IsDone: false,
           GateNumber: 0,
-          Visible: true,
-        },
-      },
-    },
-  ],
+          Visible: true
+        }
+      }
+    }
+  ]
 };
 ```
 
@@ -126,7 +123,7 @@ const actionNameType = "actionName" as const;
 // 액션 생성
 const action = (value) => ({
   type: actionNameType,
-  payload: { value },
+  payload: { value }
 });
 ```
 
@@ -158,7 +155,7 @@ const action = createAction<Profile, typeof actionNameType>(actionNameType);
 
 ```tsx
 const createReducerName = createReducer(initialState, {
-  actionName: (state, action) => state + action.payload,
+  actionName: (state, action) => state + action.payload
 });
 ```
 

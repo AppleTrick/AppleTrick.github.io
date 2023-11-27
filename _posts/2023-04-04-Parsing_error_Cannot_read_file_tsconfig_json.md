@@ -1,11 +1,8 @@
 ---
 title: ❗️Error) Parsing error Cannot read file tsconfig.json'.eslint
-author:
-  name: Changhee Park
-  link: https://github.com/Appletrick
+author: Changhee Park
 date: 2023-04-04 00:00:00 +0900
-categories: [error]
-description: 설명
+categories: [Error]
 tags: [eslint, typescript, nextjs]
 ---
 

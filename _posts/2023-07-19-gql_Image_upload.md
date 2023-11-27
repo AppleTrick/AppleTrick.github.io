@@ -1,11 +1,8 @@
 ---
 title: apollo-client 이미지 업로드 초기 세팅 방법
-author:
-  name: Changhee Park
-  link: https://github.com/Appletrick
+author: Changhee Park
 date: 2023-07-19 00:00:00 +0900
-categories: [nextjs]
-description: 설명
+categories: [Nextjs]
 tags: [nextjs, typescript, gql, apollo]
 ---
 
@@ -30,7 +27,7 @@ import {
   ApolloClient,
   ApolloLink,
   ApolloProvider,
-  InMemoryCache,
+  InMemoryCache
 } from "@apollo/client";
 import { createUploadLink } from "apollo-upload-client";
 
@@ -41,12 +38,12 @@ interface IApolloSettingProps {
 
 export default function ApolloSetting(props: IApolloSettingProps) {
   const uploadLink = createUploadLink({
-    uri: `업로드할 gql uri`,
+    uri: `업로드할 gql uri`
   });
 
   const client = new ApolloClient({
     link: ApolloLink.from([uploadLink]),
-    cache: new InMemoryCache(),
+    cache: new InMemoryCache()
   });
 
   return <ApolloProvider client={client}>{props.children}</ApolloProvider>;

@@ -1,11 +1,8 @@
 ---
 title: Custom Checkbox 만들기(React, styled-componet, Typescript)
-author:
-  name: Changhee Park
-  link: https://github.com/Appletrick
+author: Changhee Park
 date: 2022-09-01 00:00:00 +0900
-categories: [ts]
-description: 설명
+categories: [Ts]
 tags: [활용, typescript, react, styled-componenet]
 ---
 
@@ -207,7 +204,7 @@ const CheckboxButton = ({ isDone, RestGage }: CheckBoxButtonProps) => {
       IsDone_Toggle({
         IsDone: !isDone,
         ItemName: ItemName,
-        ID: ID,
+        ID: ID
       })
     );
   };

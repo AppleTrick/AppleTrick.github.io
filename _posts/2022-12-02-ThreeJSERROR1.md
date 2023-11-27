@@ -1,11 +1,8 @@
 ---
 title: Cannot use import statement outside a module ❗️
-author:
-  name: Changhee Park
-  link: https://github.com/Appletrick
+author: Changhee Park
 date: 2022-12-02 00:00:00 +0900
-categories: [error]
-description: 설명
+categories: [Error]
 tags: [error, js]
 ---
 

@@ -1,11 +1,8 @@
 ---
 title: WebSocket, WebRTC란
-author:
-  name: Changhee Park
-  link: https://github.com/Appletrick
+author: Changhee Park
 date: 2022-10-18 00:00:00 +0900
 categories: [개념]
-description: 설명
 tags: [web, 개념, 공부, websocket, webrtc]
 ---
 

@@ -1,11 +1,8 @@
 ---
 title: NextJs에서 Kakao 지도구현
-author:
-  name: Changhee Park
-  link: https://github.com/Appletrick
+author: Changhee Park
 date: 2023-10-03 00:00:00 +0900
-categories: [nextjs]
-description: 설명
+categories: [Nextjs]
 tags: [nextjs, kakao지도]
 ---
 
@@ -43,7 +40,7 @@ tags: [nextjs, kakao지도]
     const options = {
       // 지도를 생성할 때 필요한 기본 옵션
       center: new window.kakao.maps.LatLng(33.450701, 126.570667), // 지도의 중심좌표.
-      level: 3, // 지도의 레벨(확대, 축소 정도)
+      level: 3 // 지도의 레벨(확대, 축소 정도)
     };
 
     const map = new window.kakao.maps.Map(container, options); // 지도 생성 및 객체 리턴

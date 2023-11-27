@@ -1,11 +1,8 @@
 ---
 title: 타입스크립트에서의 overloading
-author:
-  name: Changhee Park
-  link: https://github.com/Appletrick
+author: Changhee Park
 date: 2022-05-30 00:00:00 +0900
-categories: [ts]
-description: 설명
+categories: [Ts]
 tags: [ts, typescript, 개념]
 ---
 

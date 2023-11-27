@@ -1,11 +1,8 @@
 ---
 title: 타입스크립트와 graphql-codegen 에 대하여
-author:
-  name: Changhee Park
-  link: https://github.com/Appletrick
+author: Changhee Park
 date: 2023-03-20 00:00:00 +0900
-categories: [nextjs]
-description: 설명
+categories: [Nextjs]
 tags: [graphql, nextjs]
 ---
 

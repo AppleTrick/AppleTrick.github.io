@@ -1,11 +1,8 @@
 ---
 title: ❗️Error) Warning React version not specified in eslint-plugin-react settings.
-author:
-  name: Changhee Park
-  link: https://github.com/Appletrick
+author: Changhee Park
 date: 2023-04-04 00:00:01 +0900
-categories: [error]
-description: 설명
+categories: [Error]
 tags: [eslint, typescript, nextjs]
 ---
 
