@@ -4,6 +4,7 @@ author: Changhee Park
 date: 2022-10-18 00:00:00 +0900
 categories: [개념]
 tags: [web, 개념, 공부, websocket, webrtc]
+render_with_liquid: false
 ---
 
 # WebSocket, WebRTC 란

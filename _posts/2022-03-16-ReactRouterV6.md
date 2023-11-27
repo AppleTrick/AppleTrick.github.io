@@ -4,6 +4,7 @@ author: Changhee Park
 date: 2022-03-16 00:00:00 +0900
 categories: [React]
 tags: [react, routing]
+render_with_liquid: false
 ---
 
 # 라우팅이란?

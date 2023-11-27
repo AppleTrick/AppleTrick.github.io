@@ -4,6 +4,7 @@ author: Changhee Park
 date: 2023-04-03 00:00:00 +0900
 categories: [Error]
 tags: [eslint, typescript, nextjs]
+render_with_liquid: false
 ---
 
 NextJS에서 eslint 설정하는 과정에서 생긴 오류

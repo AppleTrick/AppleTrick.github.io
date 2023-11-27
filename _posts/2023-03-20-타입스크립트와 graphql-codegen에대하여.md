@@ -4,6 +4,7 @@ author: Changhee Park
 date: 2023-03-20 00:00:00 +0900
 categories: [Nextjs]
 tags: [graphql, nextjs]
+render_with_liquid: false
 ---
 
 # graphQL-codegen이란?

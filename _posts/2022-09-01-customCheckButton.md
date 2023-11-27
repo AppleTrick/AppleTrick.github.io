@@ -4,6 +4,7 @@ author: Changhee Park
 date: 2022-09-01 00:00:00 +0900
 categories: [Ts]
 tags: [활용, typescript, react, styled-componenet]
+render_with_liquid: false
 ---
 
 > 이글에 작성되는 내용은 아래와 같은 라이브러리,프레임워크를 사용합니다

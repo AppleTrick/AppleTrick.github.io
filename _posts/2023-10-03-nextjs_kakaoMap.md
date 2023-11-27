@@ -4,6 +4,7 @@ author: Changhee Park
 date: 2023-10-03 00:00:00 +0900
 categories: [Nextjs]
 tags: [nextjs, kakao지도]
+render_with_liquid: false
 ---
 
 # NextJs에서 Kakao 지도구현

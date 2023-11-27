@@ -4,6 +4,7 @@ author: Changhee Park
 date: 2022-03-30 00:00:00 +0900
 categories: [React]
 tags: [react, usereducer]
+render_with_liquid: false
 ---
 
 # state와 useReducer의 차이

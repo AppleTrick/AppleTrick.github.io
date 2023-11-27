@@ -4,6 +4,7 @@ author: Changhee Park
 date: 2022-04-05 00:00:00 +0900
 categories: [Js]
 tags: [javascript]
+render_with_liquid: false
 ---
 
 # 새로고침을 막는 preventDefault

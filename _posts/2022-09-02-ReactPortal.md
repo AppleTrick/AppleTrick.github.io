@@ -4,6 +4,7 @@ author: Changhee Park
 date: 2022-09-02 00:00:00 +0900
 categories: [React]
 tags: [활용, typescript, react, reactportal]
+render_with_liquid: false
 ---
 
 # React modal 창 만들기

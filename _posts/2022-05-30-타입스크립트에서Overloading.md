@@ -4,6 +4,7 @@ author: Changhee Park
 date: 2022-05-30 00:00:00 +0900
 categories: [Ts]
 tags: [ts, typescript, 개념]
+render_with_liquid: false
 ---
 
 # parameter 개수가 같고 타입이 다를경우

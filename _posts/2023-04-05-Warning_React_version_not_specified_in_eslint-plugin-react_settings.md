@@ -4,6 +4,7 @@ author: Changhee Park
 date: 2023-04-04 00:00:01 +0900
 categories: [Error]
 tags: [eslint, typescript, nextjs]
+render_with_liquid: false
 ---
 
 eslint의 오류를 잡으려고 `npx eslint .` 을 실행했음해도 결과가 나타나지 않을때 오류 발생

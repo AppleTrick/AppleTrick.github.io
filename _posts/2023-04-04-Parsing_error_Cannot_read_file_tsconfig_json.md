@@ -4,6 +4,7 @@ author: Changhee Park
 date: 2023-04-04 00:00:00 +0900
 categories: [Error]
 tags: [eslint, typescript, nextjs]
+render_with_liquid: false
 ---
 
 vscode에서 프로젝트를 두개를 띄운 상태로 프로젝트를 진행할때 tsconfig.json의 위치를 제대로 못잡는 상황

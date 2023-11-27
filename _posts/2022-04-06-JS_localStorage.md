@@ -4,6 +4,7 @@ author: Changhee Park
 date: 2022-04-06 00:00:00 +0900
 categories: [Js]
 tags: [javascript]
+render_with_liquid: false
 ---
 
 LocalStorage는 웹에서 파일을 저장할 수 있는 기능, 작은 DB라고 생각하면 된다.

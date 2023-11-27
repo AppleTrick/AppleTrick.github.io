@@ -4,6 +4,7 @@ author: Changhee Park
 date: 2022-12-02 00:00:00 +0900
 categories: [Error]
 tags: [threejs, error, js]
+render_with_liquid: false
 ---
 
 ❗️Uncaught TypeError: THREE.scene is not a constructor

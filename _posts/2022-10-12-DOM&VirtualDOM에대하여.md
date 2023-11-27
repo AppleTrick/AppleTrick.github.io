@@ -4,6 +4,7 @@ author: Changhee Park
 date: 2022-10-12 00:00:00 +0900
 categories: [개념]
 tags: [dom, virtual_dom, 개념, 브라우져렌더링]
+render_with_liquid: false
 ---
 
 # 브라우져의 동작 원리

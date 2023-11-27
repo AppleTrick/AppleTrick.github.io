@@ -4,6 +4,7 @@ author: Changhee Park
 date: 2022-06-03 00:00:00 +0900
 categories: [Ts]
 tags: [ts, typescript, 타입스크립트, interface, 개념]
+render_with_liquid: false
 ---
 
 interface는 type과 유사하다. 똑같이 해당 구조를 사전에 설정해 주는 역할을 한다.

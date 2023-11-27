@@ -4,6 +4,7 @@ author: Changhee Park
 date: 2023-07-19 00:00:00 +0900
 categories: [Nextjs]
 tags: [nextjs, typescript, gql, apollo]
+render_with_liquid: false
 ---
 
 ...
