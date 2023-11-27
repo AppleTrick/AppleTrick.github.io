@@ -1,5 +1,5 @@
 ---
-title: 타이틀
+title: NextJS with kakao
 author: Changhee Park
 date: 2023-03-22 00:00:00 +0900
 categories: [카테고리 첫문자는 대문자로 입력할것!]
