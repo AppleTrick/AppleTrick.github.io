@@ -1,7 +1,7 @@
 ---
 title: SSL 과 HTTPS 의 이해
 author: Changhee Park
-date: 2023-03-22 00:00:00 +0900
+date: 2023-12-31 00:00:00 +0900
 categories: [Aws]
 tags: [aws, ssl, https]
 render_with_liquid: false
