@@ -1,0 +1,30 @@
+---
+title: 추후 공부 방향성
+author: Changhee Park
+date: 2024-01-12 00:00:00 +0900
+categories: [Think]
+tags: [생각정리, 방향성]
+render_with_liquid: false
+---
+
+# 방향성
+
+- Web 웹
+- Moblie Web 모바일 웹
+- Moblie App 모바일 앱 (하이브리드 앱), react-native 사용 가능 : 웹뷰를 사용
+- Cross Flatform 크로스 플랫폼 : 안드로이드와 IOS 둘 다 동시에 개발 ex) react-native , flutter
+- Android 안드로이드 ex) 코틀린
+- IOS 애플 , ex) 스위프트 공부해야됨
+
+극 초기 스타트업의 개발의 방향성 Mobile First, Web First
+
+## 추후 공부 방향성
+
+1. 하이브리드 앱 배포(웹과 앱 연동)
+2. webGL (Web Graphic Library)
+3. webRTC
+4. 데이터 시각화 ex) d3.js , chart.js
+5. 인공지능 (AI) ex) tensorflow.js
+6. **CS 지식 (Computer Science) 공부하기 ,**
+7. **크로스 브라우징 개념 공부하기**
+8. npm publish 만들어보기
