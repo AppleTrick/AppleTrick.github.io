@@ -1,9 +1,9 @@
 ---
 title: MongoDB 와 Next.JS 연결하기
 author: Changhee Park
-date: 2024-03-22 00:00:00 +0900
-categories: [카테고리 첫문자는 대문자로 입력할것!]
-tags: [무조건소문자로, 무조건소문자로]
+date: 2024-05-01 00:00:00 +0900
+categories: [Mongodb]
+tags: [nextjs, mongodb]
 render_with_liquid: false
 ---
 
